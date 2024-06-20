@@ -81,15 +81,9 @@ Mi habilidad para trabajar de manera efectiva en entornos Android y iOS, combina
 ---
 ## Educación
 
-### Licenciatura en Ingeniería de Software
-**Universidad Ejemplo**, Ciudad  
-_2014 - 2018_
-
 ### Ingeniería Informática y de Sistemas
 **Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)**, Cusco  
-_2018 - Presente_  # Si aún estás cursando, sino reemplaza con las fechas correctas
-
----
+_2018 - Presente_
 
 ---
 
@@ -102,12 +96,29 @@ _2018 - Presente_  # Si aún estás cursando, sino reemplaza con las fechas corr
 
 ---
 
-## Proyectos
-- **Proyecto A:** Breve descripción del proyecto y tu rol.
-- **Proyecto B:** Breve descripción del proyecto y tu rol.
+### Certificaciones y Cursos
 
----
+#### Google
+- **Desarrollo de Apps Móviles** (05/2022 - 05/2022)
 
-## Certificaciones y Cursos
-- Curso de Desarrollo de Aplicaciones Android - 2021
-- Certificación en Koin para Android - 2022
+#### META
+- **Android Mobile Application Development** (03/2023 - 03/2023)
+
+#### LinkedIn Learning
+- **Desarrollo Android esencial** (05/2022 - 05/2022)
+- **Desarrollo Android: Arquitectura esencial** (05/2022 - 05/2022)
+- **Android: Migración de Java a Kotlin** (05/2022 - 05/2022)
+- **Kotlin avanzado** (06/2022 - 06/2022)
+- **Arquitectura de software: Patrones esencial** (06/2022 - 06/2022)
+- **Conviértete en especialista en desarrollo Android** (06/2022 - 06/2022)
+
+#### Udemy
+- **Principios Solid, Arquitectura de Software** (05/2022 - 05/2022)
+- **iOS con Swift** (07/2022 - 07/2022)
+- **Figma, principios UX-UI** (07/2022 - 07/2022)
+- **Dominio de SCRUM y metodologías Ágiles** (05/2022 - 05/2022)
+- **Android Development - Kotlin** (07/2022 - 07/2022)
+- **Kotlin Coroutines - Programación Asíncrona** (09/2022 - 09/2022)
+- **Software architecture - case studies** (11/2022 - 11/2022)
+- **Git - Github** (05/2022 - 05/2022)
+- **Android UI Testing and Test Driven Development** (03/2023 - 03/2023)
