@@ -3,7 +3,7 @@
 **Dirección:** Lima - Perú  
 **Teléfono:** 967675759  
 **Correo electrónico:** jhohellserick@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/jhohells-erick-dianderas-lopez
+**LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/jhohells-erick-dianderas-lopez)
 
 ---
 
