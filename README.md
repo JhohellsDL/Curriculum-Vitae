@@ -1,145 +1,159 @@
-# Jhohells Erick Dianderas Lopez
+# JHOHELLS ERICK DIANDERAS LOPEZ  
 
-**Dirección:** Lima - Perú  
-**Teléfono:** 967675759  
-**Correo electrónico:** jhohellserick@gmail.com  
-**LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/jhohells-erick-dianderas-lopez)
+**Android Developer | Kotlin | Jetpack Compose | React Native**
 
----
-
-## Perfil Profesional
-
-Desarrollador Android con sólida experiencia en principios de Programación Orientada a Objetos (POO), SOLID, y Clean Code. Especializado en Kotlin, con un profundo conocimiento en coroutinas y Kotlin Flow para la programación reactiva y asincrónica. Fuerte habilidad en la estructuración de datos y la arquitectura de aplicaciones móviles, con énfasis en capas modulares y el patrón de diseño MVVM. Comprometido con la escritura de código limpio y mantenible, y con la implementación de soluciones escalables y eficientes.
+📧 **Email:** <jhohellserick@gmail.com> | 📱 **Teléfono:** +51 967 675 759  
+🌐 **LinkedIn:** [linkedin.com/in/jhohells-erick-dianderas-lopez](https://linkedin.com/in/jhohells-erick-dianderas-lopez)  
+💻 **GitHub:** [github.com/JhohellsDL](https://github.com/JhohellsDL)
 
 ---
 
-## Experiencia Laboral
+## 💼 PERFIL PROFESIONAL  
 
-### Desarrollador Android Senior
-**Empresa Indra Peru - Cliente RIMAC Seguros**, Lima  
-_Agosto 2023 - Presente_
-
-#### Equipo de Ventas, Renovación y Retención
-_Abril 2024 - Presente_
-- Contribución al desarrollo y optimización de los flujos de compra de SOAT.
-- Diseño y creación de aplicaciones móviles utilizando Android Studio y Kotlin.
-- Implementación de arquitecturas modulares siguiendo el patrón MVVM y la arquitectura clean.
-- Aplicación de principios SOLID y clean code para mejorar la mantenibilidad y calidad del código.
-- Uso de Figma para el diseño de interfaces de usuario atractivas y funcionales.
-- Gestión y seguimiento de proyectos mediante Jira y metodologías ágiles como Scrum.
-- Resolución efectiva de incidencias y problemas en aplicaciones móviles, demostrando habilidades excepcionales en debugging y profiling.
-- Liderazgo y colaboración en equipos ágiles para asegurar la entrega exitosa de proyectos.
-
-#### Equipo de Ventas, Renovación y Retención
-_Enero 2024 - Abril 2024_
-- Contribución al desarrollo y optimización de los flujos de compra de SOAT.
-- Diseño y creación de aplicaciones móviles utilizando Android Studio y Kotlin.
-- Implementación de arquitecturas modulares siguiendo el patrón MVVM y la arquitectura clean.
-- Aplicación de principios SOLID y clean code para mejorar la mantenibilidad y calidad del código.
-- Uso de Figma para el diseño de interfaces de usuario atractivas y funcionales.
-- Gestión y seguimiento de proyectos mediante Jira y metodologías ágiles como Scrum.
-- Resolución efectiva de incidencias y problemas en aplicaciones móviles, demostrando habilidades excepcionales en debugging y profiling.
-- Liderazgo y colaboración en equipos ágiles para asegurar la entrega exitosa de proyectos.
-
-#### Equipo RIMAC SEV
-_Agosto 2023 - Diciembre 2023_
-- Contribución al desarrollo y optimización de los flujos vehiculares.
-- Diseño y creación de aplicaciones móviles utilizando Android Studio y Kotlin.
-- Implementación de arquitecturas modulares siguiendo el patrón MVVM y la arquitectura clean.
-- Aplicación de principios SOLID y clean code para mejorar la mantenibilidad y calidad del código.
-- Uso de Figma para el diseño de interfaces de usuario atractivas y funcionales.
-- Gestión y seguimiento de proyectos mediante Jira y metodologías ágiles como Scrum.
-- Resolución efectiva de incidencias y problemas en aplicaciones móviles, demostrando habilidades excepcionales en debugging y profiling.
-- Liderazgo y colaboración en equipos ágiles para asegurar la entrega exitosa de proyectos.
-
-### Desarrollador Android Senior
-**Hapi, San Francisco, CA, Estados Unidos**  
-_Julio 2022 - Agosto 2023_
-- Corrección de errores reportados en Firebase Crashlytics, mejorando la estabilidad del código.
-- Implementación de nuevas características en la aplicación utilizando Jetpack Compose.
-- Seguimiento de una arquitectura modular para la implementación y mejora de componentes.
-- Aplicación de nuevas tecnologías para optimizar el rendimiento y la funcionalidad de la aplicación.
-- Resolución efectiva de incidencias y problemas en aplicaciones móviles, demostrando habilidades excepcionales en debugging y profiling.
-- Gestión y seguimiento de proyectos mediante Jira y metodologías ágiles como Scrum.
-- Liderazgo y colaboración en equipos ágiles para asegurar la entrega exitosa de proyectos.
-
-### Desarrollador Senior de Android e iOS
-**Banco de Comercio, Lima**  
-_Enero 2022 - Julio 2022_
-
-- **Arquitectura MVVM:** Diseñé y establecí la arquitectura de la aplicación utilizando el patrón MVVM para garantizar una clara separación entre la lógica de negocio y la interfaz de usuario, aplicando estos principios tanto en el entorno Android como en iOS.
-- **Tecnologías Android:** Desarrollé competencias sólidas en Android Studio, Java y Kotlin, aplicando estas tecnologías de manera efectiva para optimizar el desarrollo y la funcionalidad de la aplicación en dispositivos Android.
-- **Tecnologías iOS:** Amplié mi experiencia hacia el ecosistema iOS, utilizando Swift y aplicando mejores prácticas de desarrollo en plataformas Apple, brindando así una experiencia unificada y de alta calidad a los usuarios de ambas plataformas.
-- **Room Database:** Implementé con éxito Room Database en Android, gestionando y preservando datos críticos de manera eficiente, y apliqué estrategias equivalentes en iOS para garantizar la coherencia y seguridad de la información del usuario en ambas plataformas.
-- **Optimización y Seguridad:** Realicé contribuciones clave a la optimización del código y fortalecí la seguridad de la aplicación, implementando medidas de protección en dispositivos rooteados y encriptando datos sensibles, tanto en el entorno Android como iOS.
-- **Principios de Clean Code:** Me adherí estrictamente a los principios de Clean Code en ambas plataformas, promoviendo la legibilidad y mantenibilidad del código para futuras iteraciones del proyecto.
-
-Mi habilidad para trabajar de manera efectiva en entornos Android y iOS, combinada con mi experiencia en tecnologías como Android Studio, Java, Kotlin, Swift y el patrón MVVM, demuestra mi versatilidad y capacidad para ofrecer soluciones técnicas sólidas en el desarrollo de aplicaciones multiplataforma.
-
-### Desarrollador Android Pleno
-**Empresa Indra Peru - Cliente RIMAC Seguros**, Lima  
-_Abril 2021 - Abril 2022_
-
-#### Equipo de Ventas, Renovación y Retención
-_Abril 2024 - Presente_
-- Contribución al desarrollo y optimización de los flujos de Vehicular en la seccion de pago por Km.
-- Diseño y creación de aplicaciones móviles utilizando Android Studio y Kotlin.
-- Implementación de arquitecturas modulares siguiendo el patrón MVVM y la arquitectura clean.
-- Aplicación de principios SOLID y clean code para mejorar la mantenibilidad y calidad del código.
-- Uso de Figma para el diseño de interfaces de usuario atractivas y funcionales.
-- Gestión y seguimiento de proyectos mediante Jira y metodologías ágiles como Scrum.
-- Resolución efectiva de incidencias y problemas en aplicaciones móviles, demostrando habilidades excepcionales en debugging y profiling.
-- Liderazgo y colaboración en equipos ágiles para asegurar la entrega exitosa de proyectos.
-
+Desarrollador Android con experiencia en principios de **POO**, **SOLID** y **Clean Code**. Especializado en **Kotlin**, con dominio de **corutinas** y **Kotlin Flow** para programación reactiva y asincrónica. Experto en arquitectura **MVVM** y diseño modular, enfocado en soluciones escalables y mantenibles. Comprometido con la calidad del código y la implementación de aplicaciones móviles eficientes.
 
 ---
 
-## Educación
+## 🎓 EDUCACIÓN  
 
-### Ingeniería Informática y de Sistemas
-**Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)**, Cusco  
-_2018 - Presente_
-
----
-
-## Habilidades
-- Kotlin, Java
-- Jetpack Compose
-- Room Database
-- Koin, Dagger Hilt
-- Coroutines, Kotlin Flow
-- Git, GitHub
-- Espresso, JUnit
-- Firebase (Authentication, Firestore, Analytics)
-- Retrofit, OkHttp
-- CI/CD (Jenkins, GitHub Actions)
-- Figma, Adobe XD
+**Universidad Nacional de San Antonio Abad del Cusco**  
+**Ingeniería Informática y de Sistemas**
 
 ---
 
-## Certificaciones y Cursos
+## 📚 CERTIFICACIONES DESTACADAS  
 
-### Google
-- **Desarrollo de Apps Móviles** (05/2022 - 05/2022)
+- **Google:** Desarrollo de Apps Móviles  
+- **Meta:** Android Mobile Application Development  
+- **Udemy:** Curso completo de iOS y Swift  
+- **LinkedIn:** Desarrollo de aplicaciones – Arquitectura avanzada  
+- **LinkedIn:** Kotlin avanzado  
+- **Udemy:** Curso Avanzado de apps en Android Studio  
+- **Udemy:** Git + GitHub  
+- Más de 40 certificaciones adicionales sobre desarrollo móvil (verificables en LinkedIn)
 
-### META
-- **Android Mobile Application Development** (03/2023 - 03/2023)
+---
 
-### LinkedIn Learning
-- **Desarrollo Android esencial** (05/2022 - 05/2022)
-- **Desarrollo Android: Arquitectura esencial** (05/2022 - 05/2022)
-- **Android: Migración de Java a Kotlin** (05/2022 - 05/2022)
-- **Kotlin avanzado** (06/2022 - 06/2022)
-- **Arquitectura de software: Patrones esencial** (06/2022 - 06/2022)
-- **Conviértete en especialista en desarrollo Android** (06/2022 - 06/2022)
+## 💼 EXPERIENCIA PROFESIONAL  
 
-### Udemy
-- **Principios Solid, Arquitectura de Software** (05/2022 - 05/2022)
-- **iOS con Swift** (07/2022 - 07/2022)
-- **Figma, principios UX-UI** (07/2022 - 07/2022)
-- **Dominio de SCRUM y metodologías Ágiles** (05/2022 - 05/2022)
-- **Android Development - Kotlin** (07/2022 - 07/2022)
-- **Kotlin Coroutines - Programación Asíncrona** (09/2022 - 09/2022)
-- **Software architecture - case studies** (11/2022 - 11/2022)
-- **Git - Github** (05/2022 - 05/2022)
-- **Android UI Testing and Test Driven Development** (03/2023 - 03/2023)
+### **INDRA - Cliente RIMAC | Lima, Perú**  
+
+**Android Developer Senior**  
+**Agosto 2023 - Actualidad**
+
+#### 🧩 *Equipo Super APP (React Native)*  
+
+**Enero 2025 – Presente**  
+
+- Diseñé y desarrollé una librería de componentes reutilizables para el Design System.  
+- Construí interfaces escalables con **React Native** y **TypeScript**.  
+- Promoví buenas prácticas **SOLID** y **Clean Code** mediante charlas internas.  
+- Documenté estándares de desarrollo para garantizar consistencia visual.  
+- Aseguré la evolución continua del Design System alineado con las necesidades del producto.
+
+#### 🧩 *Equipo de Ventas, Renovación y Retención*  
+
+**Abril 2024 – Presente**  
+
+- Optimización de flujos en la Tienda del app.  
+- Diseño y desarrollo de aplicaciones móviles con **Android Studio** y **Kotlin**.  
+- Implementación de interfaces funcionales con **Figma**.  
+- Gestión de proyectos con **Jira** y metodologías ágiles como **Scrum**.
+
+#### 🧩 *Equipo RIMAC SEV*  
+
+**Agosto 2023 – Diciembre 2023**  
+
+- Desarrollo de flujos vehiculares – Chofer de reemplazo.  
+- Implementación de arquitecturas modulares con **MVVM** y **Clean Architecture**.  
+- Diseño de interfaces funcionales con **Figma**.  
+- Resolución de incidencias y mejora de la calidad del código.
+
+---
+
+### **HAPI APP | San Francisco, CA, Estados Unidos**  
+
+**Android Development Senior**  
+**Julio 2022 – Julio 2023**  
+
+- Corrección de errores reportados en **Firebase Crashlytics**, mejorando la estabilidad.  
+- Implementación de nuevas características con **Jetpack Compose**.  
+- Optimización del rendimiento y funcionalidad de la aplicación.  
+- Gestión de proyectos con **Jira** y metodologías ágiles como **Scrum**.  
+- Liderazgo en equipos ágiles para asegurar entregas exitosas.
+
+---
+
+### **BANCO DE COMERCIO | Lima, Perú**  
+
+**Android e iOS Development Senior**  
+**Enero 2022 – Julio 2022**  
+
+- Diseñé la arquitectura de la aplicación con **MVVM** para Android e iOS.  
+- Desarrollo con **Kotlin**, **Java** y **Swift**, optimizando la funcionalidad en ambas plataformas.  
+- Implementación de **Room Database** en Android y estrategias equivalentes en iOS.  
+- Refuerzo de la seguridad con medidas anti-root y cifrado de datos sensibles.  
+- Aplicación de principios **Clean Code** para garantizar mantenibilidad.
+
+---
+
+### **INDRA - Cliente RIMAC | Lima, Perú**  
+
+**Android Development Pleno**  
+**Abril 2021 – Abril 2022**  
+
+- Desarrollo frontend con **Kotlin** y **Swift**.  
+- Implementación de mapas para Android y Huawei en el equipo "Pago por Kilómetros".  
+- Aplicación de medidas de seguridad basadas en **OWASP**.  
+- Resolución de incidencias y soporte en producción.
+
+---
+
+### **Desarrollador Freelance | Cusco, Perú**  
+
+**Enero 2020 – Enero 2022**  
+
+#### **Proyectos Destacados**  
+
+- **Regresión Lineal** (5,000+ descargas): App en **Java** para cálculos de regresión lineal.  
+- **Matemática Primer Grado** (2,000+ descargas): App en **Kotlin** para ejercicios educativos.  
+- **Estadística Teoría y Calculadora**: Resolución de problemas estadísticos en **Kotlin**.  
+- **¿Cuánto debo pagar?**: Registro de gastos eléctricos en **Kotlin**.  
+- **Sumas y Restas**: App educativa para niños en **Kotlin**.
+
+#### **Clientes**  
+
+- **Farmacia "La Buena Salud"**: Gestión de almacenamiento con **Java**.  
+- **Colegio "Qorikancha"**: Seguimiento de notas y asistencias con **Kotlin** y **Firebase**.  
+- **Distribuidora de Gaseosas "Andino S.A.C"**: Gestión de almacén con **Kotlin** y **SQLite**.
+
+---
+
+### **ANDINO S.A.C | Cusco, Perú**  
+
+**Analista de Sistemas**  
+**Marzo 2018 – Septiembre 2021**  
+
+- Identificación y solución de fallas en sistemas.  
+- Diseño de diagramas de flujo y modelado funcional.  
+- Desarrollo sobre tecnologías **AWS** (EC2, RDS, Lambda).  
+- Conocimientos en **Azure**, **PowerShell**, y **DevOps**.
+
+---
+
+### **DeCode | Cusco, Perú**  
+
+**Programador Web y Android**  
+**Marzo 2015 – Marzo 2018**  
+
+- Desarrollo de aplicaciones web y móviles con **Angular**, **Ionic**, y **Android Studio**.  
+- Conexión de aplicaciones a bases de datos con **XAMPP** y **MySQL**.
+
+---
+
+## 🛠️ HABILIDADES TÉCNICAS  
+
+- **Lenguajes y Frameworks:** Kotlin, Jetpack Compose, Coroutines, Flow, React Native, TypeScript  
+- **Arquitectura:** Clean Architecture, MVVM  
+- **Herramientas:** Android Studio, Retrofit, Dagger/Hilt, Firebase, Git  
+- **Diseño:** Figma  
